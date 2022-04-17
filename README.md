@@ -13,5 +13,5 @@ ShipClass (class) - has no parameters and sets all data members to their initial
   
   get_num_ships_remaining (method) -  takes as an argument either "first" or "second" (String) and returns how many ships the specified player has left.
   
-
+Happy Playing! Hope you enjoy this classic board game!
 
