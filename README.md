@@ -1,5 +1,5 @@
 # BattleShip---Boardgame 
-Battleship (Classic board game) that can be played by two players. The rules of the game of are simple! Each player has their own 10x10 grid they place their ships on. On their turn, they can fire a torpedo at a square on the enemy's grid. Player 'first' gets the first turn to fire a torpedo, after which players alternate firing torpedos. A ship is sunk when all of its squares have been hit. When a player sinks their opponent's final ship, they win.
+Battleship (Classic board game) that can be played by two players. The rules of the game of are simple! Each player has their own 10x10 grid they place their ships on. On their turn, they can fire a torpedo at a square on the enemy's grid. Player 'first' gets the first turn to fire a torpedo, after which players alternate firing torpedos. A ship is sunk when all of its squares have been hit. When a player sinks their opponent's final ship, they win!
 
 Thus far only the back-end of this game has been developed using Python (GUI/Visual front-end is a work-in-progress!) , however with the right functions calls this game can be fully played out! Please see a summarization below of which classes, and corresponding methods control the operations of each phase and action of this game. 
 
